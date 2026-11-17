@@ -3,7 +3,7 @@ name = "SigmaOS-secure-boot"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "secure-boot component"
+description = "Secure Boot integration: UEFI shim, signed kernel, lockdown, TPM2"
 upstream = []
 
 [contract]
